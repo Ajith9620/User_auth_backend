@@ -12,8 +12,6 @@ It is built with Spring Boot and PostgreSQL, providing secure user authenticatio
 - Role-based access (USER / ADMIN)  
 - Account lock after 3 failed login attempts  
 - Audit logging for login and logout actions  
-- Email notification support  
-- CORS configuration for frontend integration  
 
 ---
 
