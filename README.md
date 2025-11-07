@@ -67,8 +67,11 @@ Update the following in `src/main/resources/application.properties`:
 
 ---
 
+## Screenshots of DataBaseTable
 
-1. Make sure PostgreSQL is running.
-2. Build and start the project:
+| Page | Image |
+|-------|--------|
+| User Table | ![Login Page](src/main/java/com/user_auth_backend/user_auth_backend/screenshots/USer_Table.png) |
+| Audit Table | ![Register Page](src/main/java/com/user_auth_backend/user_auth_backend/screenshots/Audit_table.png) |
 
-
+---
